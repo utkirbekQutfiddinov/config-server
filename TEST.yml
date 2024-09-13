@@ -1,1 +1,1 @@
-dburl=jdbc:mysql//localhost:1112/test
+dburl=jdbc:mysql//localhost:1112/test?test1?test2
